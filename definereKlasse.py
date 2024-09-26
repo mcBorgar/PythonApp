@@ -9,4 +9,3 @@ class Person:
 
 person = Person("Endre",31)
 person.greet()
-ab

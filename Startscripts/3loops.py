@@ -1,5 +1,8 @@
 #!/bin/python
-tall = ["1, 2, 3, 5, 6, 7, 8, 9, 10"]
 
-for i in range(2, 10000000000, 2):
-    print(i, "$")
+for i in range(0, 10, 2):
+    print(i)
+
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
